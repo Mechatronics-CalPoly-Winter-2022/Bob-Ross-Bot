@@ -16,7 +16,7 @@ Below is a Bill of Materials that list all the parts we need for this project:
 |  1   | Battery (6V or 12V)                | Online/store/Lab      |   ?       |
 |  1   | Nucleo with Shoe                   | ME405 Tub             |     -     |
 |  2   | Pittperson Gearmotors              | ME405 Tub             |     -     |
-|  1   | Solenoid Actuator                  | Online/store          | "~$20"    |
+|  1   | Solenoid Actuator                  | Online/store          |   ~$20    |
 |  1   | Speaker                            | Online/store          | ?         |
 |  1   | Black Sharpie&trade;               | Home                  |   -       |
 |  1   | Long Screw                         | Lab Scrap             |   -       |
