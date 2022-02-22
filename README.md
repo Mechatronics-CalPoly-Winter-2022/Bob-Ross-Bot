@@ -16,7 +16,6 @@ Here is a small schematic that shows what the final result should look like:
 Below is a Bill of Materials that list all the parts we need for this project:
 | Qty. | Part                               | Source                | Est. Cost |
 |:----:|:-----------------------------------|:----------------------|:---------:|
-|  1   | Battery (6V or 12V)                | Online/store/Lab      |   $20-25  |
 |  1   | Nucleo with Shoe                   | ME405 Tub             |     -     |
 |  2   | Pittperson Gearmotors              | ME405 Tub             |     -     |
 |  1   | Solenoid Actuator                  | Online/store          |   ~$20    |
@@ -24,6 +23,8 @@ Below is a Bill of Materials that list all the parts we need for this project:
 |  1   | Black Sharpie&trade;               | Home                  |   -       |
 |  1   | Long Screw                         | Lab Scrap             |   -       |
 |  2   | Aluminum Rod (arm & swivel)        | Lab Scrap             | -         |
-|  2?  | nuts                               | Lab Scrap             |   -       |
-|  1   | Wheel                              | Online/store          |   $15-30  |
+|  6?  | nuts                               | Lab Scrap             |   -       |
+|  1   | Wheel (3-4 inch diameter)          | Online/store          |   $15-30  |
 |  ?   | Wood                               | Lab Scrap             |   -       |
+|  ?   | Hose Clamp                         | Online/store          |   X       |
+|  2   | Limit switches                     | Online/store          |   X       |
