@@ -1,4 +1,6 @@
 """! 
+@file enc_driver.py
+
 @brief Offers functionality that enables reading the current position of
 the motor in encoder tics. 
 """

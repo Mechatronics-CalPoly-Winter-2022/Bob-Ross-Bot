@@ -1,4 +1,6 @@
 """! 
+@file servo.py
+
 @brief A class that inherits from both the MotorDriver and 
 EncoderDriver classes. Offers full functionality from both classes.
 """
